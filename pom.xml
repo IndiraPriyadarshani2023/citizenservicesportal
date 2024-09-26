@@ -9,12 +9,12 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath />
 	</parent>
-	<groupId>com.medisoft.app</groupId>
-	<artifactId>medisoft</artifactId>
+	<groupId>com.citizenservices.app</groupId>
+	<artifactId>citizenservices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Medisoft</name>
-	<description>Online Medicene Distribution Portal</description>
+	<name>Trident</name>
+	<description>Citizen Services Portal</description>
 
 	<properties>
 		<java.version>1.8</java.version>
